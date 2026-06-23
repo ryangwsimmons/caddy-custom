@@ -6,14 +6,14 @@ Caddy Web Server with the following plugins added:
 
 Initial code based on [Caddy Web Server with ACME-DNS Provider](https://github.com/timelordx/caddy-dns-acmedns)
 
-[![Docker Build and Publish](https://github.com/ryangwsimmons/caddy-dns-cloudflare/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ryangwsimmons/caddy-dns-cloudflare/actions/workflows/docker-publish.yml)
+[![Docker Build and Publish](https://github.com/ryangwsimmons/caddy-custom/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ryangwsimmons/caddy-custom/actions/workflows/docker-publish.yml)
 
 **Docker Pull Command**
 
 * from GitHub Container Registry: 
 
 ```
-docker pull ghcr.io/ryangwsimmons/caddy-dns-cloudflare:latest
+docker pull ghcr.io/ryangwsimmons/caddy-custom:latest
 ```
 
 **Documentation**
